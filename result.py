@@ -5,4 +5,6 @@ elif(a>=80):
     print('B+')
 elif(a>=70):
     print('C+')
+else:
+    print("You failed")
     
